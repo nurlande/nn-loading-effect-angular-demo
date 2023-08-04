@@ -7,4 +7,9 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'loader-demo';
+  colors = {
+    color1: 'red',
+    color2: 'orange',
+    color3: 'yellow'
+  }
 }
